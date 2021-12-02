@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 I am [Chirantan](https://chirantanganguly.github.io/Chirantan-Ganguly/) 
 
-<a href="mailto:chirantanganguly01@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="30px"/></a> &ensp;
-<a href="https://www.linkedin.com/in/chirantan-ganguly/"><img src="https://i.imgur.com/8aJxz4M.png" width="30px"/></a> &ensp;
-<a href="https://www.instagram.com"><img src="https://similarpng.com/instagram-logo-free-download-png/" width="30px"/></a> &ensp;
 
 I am currently pursuing my B.Tech Undergraduate in [Electronics and Communication Engineering](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). My interests are somewhat in the intersection of Applied Machine Learning, Deep Learning in IoT and smart devices. 
 
@@ -24,7 +21,32 @@ Also, recently I have been enjoying reading about the hardware designing. I am a
 
 <img src="https://komarev.com/ghpvc/?username=ChirantanGanguly&color=blueviolet"/>
 
-I live on the internet.
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Connect with me on:
+<br></h2>
+
+<p>
+<a href="https://www.linkedin.com/in/chirantan-ganguly" target="_blank">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png" height="70" width= auto></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mr.gangopadhyay/" target="_blank">
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/res/ig.png" height="70" width= auto></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--<a href="https://github.com/Suvraneel" target="_blank">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/github.png" height="35" width= auto></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+<a href="https://www.facebook.com/profile.php?id=100004205626068" target="_blank">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png" height="70" width= auto></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/851345743935045652/" id="discord">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg" height="70" width= auto></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png" height="70" width= auto></a>
+</p>
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
