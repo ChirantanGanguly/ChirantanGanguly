@@ -28,25 +28,6 @@ Also, recently I have been enjoying reading about the hardware designing. I am a
 Connect with me on:
 <br></h2>
 
-<p>
-<a href="https://www.linkedin.com/in/chirantan-ganguly" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mr.gangopadhyay/" target="_blank">
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/res/ig.png" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--<a href="https://github.com/Suvraneel" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/github.png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-<a href="https://www.facebook.com/profile.php?id=100004205626068" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/851345743935045652/" id="discord">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png" height="70" width= auto></a>
-</p>
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
