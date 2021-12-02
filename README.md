@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am currently pursuing my B.Tech Undergraduate in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). My interests are somewhat in the intersection of Image Processing, Graph Compressed Sensing, Causal Statistics, and Theoretical Deep Learning. Also, recently I have been enjoying reading about the interesting design decisions in Graph Neural Networks. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
 
-<img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=ChirantanGanguly&color=blueviolet"/>
 
 I live on the internet.
 
