@@ -19,14 +19,6 @@ I am currently pursuing my B.Tech Undergraduate in [Electronics and Communicatio
 
 Also, recently I have been enjoying reading about the hardware designing. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
 
-<img src="https://komarev.com/ghpvc/?username=ChirantanGanguly&color=blueviolet"/>
-
-<br>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Connect with me on:
-<br></h2>
 
 
 <details>
