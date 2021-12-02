@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/chirantan-ganguly/"><img src="https://i.imgur.com/8aJxz4M.png" width="30px"/></a> &ensp;
 <a href="https://www.instagram.com"><img src="https://similarpng.com/instagram-logo-free-download-png/" width="30px"/></a> &ensp;
 
-I am currently pursuing my B.Tech Undergraduate in [Electrnics and Communication Engineering](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). My interests are somewhat in the intersection of Applied Machine Learning, Deep Learning in IoT and smart devices. 
+I am currently pursuing my B.Tech Undergraduate in [Electronics and Communication Engineering](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). My interests are somewhat in the intersection of Applied Machine Learning, Deep Learning in IoT and smart devices. 
 
 Also, recently I have been enjoying reading about the hardware designing. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
 
@@ -39,4 +39,3 @@ I live on the internet.
       
 </details>
   
-You can find more of me, in <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>my homepage.</strong></a>
