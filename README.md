@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/chirantan-ganguly/"><img src="https://i.imgur.com/8aJxz4M.png" width="30px"/></a> &ensp;
 <a href="https://www.instagram.com"><img src="https://similarpng.com/instagram-logo-free-download-png/" width="30px"/></a> &ensp;
 
-I am currently pursuing my B.Tech Undergraduate in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). My interests are somewhat in the intersection of Image Processing, Graph Compressed Sensing, Causal Statistics, and Theoretical Deep Learning. Also, recently I have been enjoying reading about the interesting design decisions in Graph Neural Networks. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
+I am currently pursuing my B.Tech Undergraduate in [Electrnics and Communication Engineering](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). My interests are somewhat in the intersection of Applied Machine Learning, Deep Learning in IoT and smart devices. 
+
+Also, recently I have been enjoying reading about the hardware designing. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
 
 <img src="https://komarev.com/ghpvc/?username=ChirantanGanguly&color=blueviolet"/>
 
