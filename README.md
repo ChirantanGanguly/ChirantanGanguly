@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirantan Ganguly</h1>
-<h3 align="center">Electronics Engineering Undergraduate; Research Intern [CDAC](https://www.cdac.in/)</h3>
+<h3 align="center">Electronics Engineering Undergraduate; Research Intern Center for Development of Advanced Computing (CDAC)</h3>
 
 - I am currently pursuing my B.Tech Undergraduate in [Electronics and Communication Engineering](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). 
 - 🔭 I’m currently working on [Location Estimation using RSSI value of WLAN](https://github.com/ITU-AI-ML-in-5G-Challenge/CLAMP-ML5G-PS-016)
