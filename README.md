@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirantan Ganguly</h1>
-<h3 align="center"Research Intern Center for Development of Advanced Computing (CDAC)</h3>
+<h3 align="center">Research Intern Center for Development of Advanced Computing (CDAC)</h3>
+
 
 
 - 👨‍🎓 I am currently pursuing my B.Tech in [ECE](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). 
