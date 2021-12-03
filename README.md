@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirantan Ganguly</h1>
 <h3 align="center"Research Intern Center for Development of Advanced Computing (CDAC)</h3>
 
+<body align="left">
 - 👨‍🎓 I am currently pursuing my B.Tech in [ECE](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). 
 - 🔭 I’m currently working on [Location Estimation using RSSI value of WLAN](https://github.com/ITU-AI-ML-in-5G-Challenge/CLAMP-ML5G-PS-016)
 
@@ -9,7 +10,7 @@
 - 📫 How to reach me **chirantanganguly01@gmail.com**
 
 - 📄 Know about my experiences [https://chirantanganguly.github.io/](https://chirantanganguly.github.io/)
-
+</body>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/CGanguly01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cganguly01" height="30" width="40" /></a>
