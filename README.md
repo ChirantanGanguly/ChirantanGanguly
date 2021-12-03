@@ -9,9 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am [Chirantan](https://chirantanganguly.github.io/Chirantan-Ganguly/) 
+# Hi there 👋 I am [Chirantan](https://chirantanganguly.github.io/Chirantan-Ganguly/) 
 
- #  <img src="https://github.com/ChirantanGanguly/ChirantanGanguly/blob/main/pp.jpg" width="50px" height="50px">  A little bit about me 
+ ##  <img src="https://github.com/ChirantanGanguly/ChirantanGanguly/blob/main/pp.jpg" width="50px" height="50px">  A little bit about me 
 I am currently pursuing my B.Tech Undergraduate in [Electronics and Communication Engineering](https://www.caluniv.ac.in/academic/rpe.html) from the [University of Calcutta](https://www.caluniv.ac.in/). My interests are somewhat in the intersection of Applied Machine Learning, Deep Learning in IoT and smart devices. 
 
 Also, recently I have been enjoying reading about the hardware designing. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
