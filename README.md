@@ -7,11 +7,11 @@
   
 - 🔭 I’m currently working on [Location Estimation using RSSI value of WLAN](https://github.com/ITU-AI-ML-in-5G-Challenge/CLAMP-ML5G-PS-016)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChirantanGanguly](https://github.com/ChirantanGanguly)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/ChirantanGanguly)
 
 - 📫 How to reach me **chirantanganguly01@gmail.com**
 
-- 📄 Know about my experiences [https://chirantanganguly.github.io/](https://chirantanganguly.github.io/)
+- 📄 Know about my experiences from my [CV](https://chirantanganguly.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
