@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/ChirantanGanguly)
 
-- 📫 How to reach me **chirantanganguly01@gmail.com**
+- 📫 Email me at **chirantanganguly01@gmail.com**
 
 - 📄 Know about my experiences from my [CV](https://chirantanganguly.github.io/)
 
