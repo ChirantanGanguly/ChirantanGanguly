@@ -15,9 +15,11 @@
 - 📄 Know about my experiences from my [CV](https://chirantanganguly.github.io/)
 
 <h3 align="left">Experience :</h3>
+
 [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune: May, 2021 – Present
 
-Research Intern<br>
+Research Intern
+
 - Reviewed research articles employing Deep Learning to study the impact of the pandemic on physical and mental health of people. Two book chapters were written on our analytical review which have been accepted for publication.
 
 - Represented CDAC in [International Telecommunication Union (ITU)](https://www.itu.int/en/Pages/default.aspx) organised [AI/ML in 5G challenge](https://aiforgood.itu.int/about/aiml-in-5g-challenge/), where we explored methods for Indoor localisation where GPS do not yield accurate results using Machine Learning algorithms from Received Signal Strength (RSSI) values from Wifi routers. The solution provided was awarded by the [Telecommunication Technology Committee (TTC), Japan](https://www.ttc.or.jp/e) for our meticulous approach. I am currently working on writing an article on the same for publication.
