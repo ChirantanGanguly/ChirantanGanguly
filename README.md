@@ -16,7 +16,7 @@
 
 <h3 align="left">Experience :</h3>
 
-#### - [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune, India: May, 2021 – Present <br>
+#### [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune, India: May, 2021 – Present <br>
 Research Intern
 
 - Reviewed research articles employing Deep Learning to study the impact of the pandemic on physical and mental health of people. Two book chapters were written on our analytical review which have been accepted for publication.
@@ -25,7 +25,7 @@ Research Intern
 
 - Initiated work on the development of a robust and deployable AutoML package for Python to make writing Machine Learning code a easier and making the power of ML  accessible to all.
 
-#### - [Blue Marble Space Institute of Science (BMSIS)](https://bmsis.org/), Seattle, USA: June, 2021 – September, 2021 <br>
+#### [Blue Marble Space Institute of Science (BMSIS)](https://bmsis.org/), Seattle, USA: June, 2021 – September, 2021 <br>
 Research Associate under [Dr. Anamaria Berea](https://www.linkedin.com/in/anamariaberea/)
 
 - We looked into the fundamentals of communication and information exchange from cells to animals to humans and artificial systems such as AI.
@@ -55,6 +55,17 @@ Department of Biotechnology - Govt. of India
 - It should spray sanitizer whenever hands are placed below a knob/a fixed point
 - Display all relevant things over the LCD & Serial Monitor simultaneously.
 - Count of the number of person currently inside should be maintained and displayed properly.
+
+<h3 align="left">Selected Ceritificates :</h3>
+
+- [Machine Learning with Python - IBM](https://www.credly.com/badges/06db0584-d882-48c0-abd1-55b48835f0bb/linked_in_profile)
+- [Data Visualization with R - IBM](https://www.credly.com/badges/3210906d-0fa4-433c-838c-a310e43bb720/linked_in_profile)
+- [ExploreML Intermediate Track - Google](https://www.linkedin.com/posts/chirantan-ganguly_explore-ml-certificate-of-completion-of-intermediate-activity-6617394363083390976-2Wi3)
+- [Managing Machine Learning Projects with Google Cloud - Google Cloud](https://www.coursera.org/account/accomplishments/certificate/C2YREJQ9EMP5)
+- [Data Science Math Skills - Duke University](https://www.coursera.org/account/accomplishments/certificate/RRGKLTYEQM8Z)
+- [Data Science: Foundations using R Specialisation - Johns Hopkins University](https://www.coursera.org/account/accomplishments/specialization/certificate/Z5FUAAEDZ8J4)
+- [Python Intermediate Certificate - HackerRank](https://www.hackerrank.com/certificates/e6cfab7c5974)
+- [VLSI System On Chip Design - Maven Silicon](https://drive.google.com/file/d/1TSZ8qEHX7RGnUXgHt2Y16-_eYS_EtQJU/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
