@@ -33,6 +33,29 @@ Research Associate under [Dr. Anamaria Berea](https://www.linkedin.com/in/anamar
 - We used information theory, agent-based modeling and natural language processing to analyze datasets such as those of gorilla calls, dolphin languages and mycelial networks.
 - Had to complete ethics module (a discussion on a topic attracting conflicting views) and communication module (publishing articles for BMSIS website) for successful completion of the program.
 
+<h3 align="left">Projects :</h3>
+
+#### [Vargi Bot](www.youtube.com/watch?v=QIGFrAWsTJA): Oct, 2020 – Mar, 2021 <br>
+eYantra Robotics Competition, IIT Bombay
+
+- Programmed and simulated two UR5 arms to work in fully automated warehouse scenarios - to segregate packaging.
+- Developed a dynamic dashboard using Web development techniques for dynamically updating and showing all relevant in formations required in a shipping scenario.
+- <b>Skills used:</b> Python, ROS Melodic, Gazebo, Computer Vision, IOT, Ajax
+
+
+#### [COVID’19 Automated Screening and Sanitisation System](www.tinkercad.com/things/3I1yRh8UKWp): Jul, 2020 – Sep, 2020 <br>
+Department of Biotechnology - Govt. of India
+
+- Automated the temperature based screening task for COVID’19 screening.
+- Detect and alert whenever a person is in between the range of 10cm to 20cm in front of the machine.
+- Measures body temperature
+- It should measure temperature only when someone is detected not all the time.
+- If the temperature is high, then a buzzer & RED LED should be turned on, to alert Gatekeeper.
+- If the temperature is normal, then it should turn on the GREEN LED.
+- It should spray sanitizer whenever hands are placed below a knob/a fixed point
+- Display all relevant things over the LCD & Serial Monitor simultaneously.
+- Count of the number of person currently inside should be maintained and displayed properly.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/CGanguly01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cganguly01" height="30" width="40" /></a>
