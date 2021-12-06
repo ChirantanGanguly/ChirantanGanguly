@@ -63,6 +63,7 @@ jain/978-0-323-91196-2)
 - Nayak, S.,<b> Ganguly, C. </b>and Gupta, A., (2022) A review of Machine Learning techniques to detect and treat COVID-19 using EHR data. [Accepted, Currently in Publication process]
 
 <h3 align="left">Honours and Awards :</h3>
+
 - Excellence Award for the AI/ML challenge Japan Round (Sponsored by ITU) – Telecommunications Technology Committee
 
 <h3 align="left">Selected Ceritificates :</h3>
