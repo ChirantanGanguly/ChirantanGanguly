@@ -16,7 +16,7 @@
 
 <h3 align="left">Experience :</h3>
 
-#### [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune: May, 2021 – Present <br>
+#### [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune, India: May, 2021 – Present <br>
 Research Intern
 
 - Reviewed research articles employing Deep Learning to study the impact of the pandemic on physical and mental health of people. Two book chapters were written on our analytical review which have been accepted for publication.
@@ -25,7 +25,13 @@ Research Intern
 
 - Initiated work on the development of a robust and deployable AutoML package for Python to make writing Machine Learning code a easier and making the power of ML  accessible to all.
 
+#### [Blue Marble Space Institute of Science (BMSIS)](https://bmsis.org/), Seattle, USA: June, 2021 – September, 2021 <br>
+Research Associate under [Dr. Anamaria Berea](https://www.linkedin.com/in/anamariaberea/)
 
+- We looked into the fundamentals of communication and information exchange from cells to animals to humans and artificial systems such as AI.
+- We tried to understand the role of communication plays for collective behavior in species and for the adaptation and selection of species in general.
+- We used information theory, agent-based modeling and natural language processing to analyze datasets such as those of gorilla calls, dolphin languages and mycelial networks.
+- Had to complete ethics module (a discussion on a topic attracting conflicting views) and communication module (publishing articles for BMSIS website) for successful completion of the program.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
