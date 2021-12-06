@@ -21,6 +21,7 @@
 <a href="https://www.facebook.com/profile.php?id=100004205626068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004205626068" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.gangopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.gangopadhyay/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uclxennb_bhdanfvgggpcanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxennb_bhdanfvgggpcanq" height="30" width="40" /></a>
+<a href="mailto:chirantanganguly01@gmail.com" target="blank"><img align="center" src="https://github.com/ChirantanGanguly/ChirantanGanguly/blob/main/gmail%20thumb.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
