@@ -56,6 +56,12 @@ Department of Biotechnology - Govt. of India
 - Display all relevant things over the LCD & Serial Monitor simultaneously.
 - Count of the number of person currently inside should be maintained and displayed properly.
 
+<h3 align="left">Publications :</h3>
+
+- <b>Ganguly, C.</b>, Nayak, S. and Gupta, A., (2022) Mental health impact of COVID-19 and machine learning applications in combating mental disorders: a review. 1st edition. Academic Press, ISBN 978-0-323-91196-2. [Book Link](https://www.elsevier.com/books/artificial-intelligence-machine-learning-and-mental-health-in-pandemics/
+jain/978-0-323-91196-2)
+- Nayak, S.,<b> Ganguly, C. </b>and Gupta, A., (2022) A review of Machine Learning techniques to detect and treat COVID-19 using EHR data. [Accepted, Currently in Publication process]
+
 <h3 align="left">Selected Ceritificates :</h3>
 
 - [Machine Learning with Python - IBM](https://www.credly.com/badges/06db0584-d882-48c0-abd1-55b48835f0bb/linked_in_profile)
