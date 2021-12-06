@@ -94,6 +94,6 @@ jain/978-0-323-91196-2)
 
 <br />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrakshar01&theme=tokyonight" />
+<img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrakshar01&theme=tokyonight" />
 
 </p>
