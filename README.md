@@ -60,10 +60,7 @@ Department of Biotechnology - Govt. of India
 <br>
 <h2 align="left">📚 Publications :<br></h2>
 
-- <b>Ganguly, C.</b>, Nayak, S. and Gupta, A., (2022) Mental health impact of COVID-19 and machine learning applications in combating mental disorders: a review. 1st edition. Academic Press, ISBN 978-0-323-91196-2. 
-
-[Book Link](https://www.elsevier.com/books/artificial-intelligence-machine-learning-and-mental-health-in-pandemics/
-jain/978-0-323-91196-2)
+- <b>Ganguly, C.</b>, Nayak, S. and Gupta, A., (2022) Mental health impact of COVID-19 and machine learning applications in combating mental disorders: a review. 1st edition. Academic Press, ISBN 978-0-323-91196-2. [Book Link](https://www.elsevier.com/books/artificial-intelligence-machine-learning-and-mental-health-in-pandemics/jain/978-0-323-91196-2)
 - Nayak, S.,<b> Ganguly, C. </b>and Gupta, A., (2022) A review of Machine Learning techniques to detect and treat COVID-19 using EHR data. [Accepted, Currently in Publication process]
 
 
