@@ -14,7 +14,7 @@
 
 - 📄 Find details about me from my [CV](https://chirantanganguly.github.io/)
 
-<h2 align="left">Experience :<br></h2>
+<h2 align="left">💼 Experience :<br></h2>
 
 ### [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune, India: May, 2021 – Present <br>
 Research Intern
@@ -33,7 +33,7 @@ Research Associate under [Dr. Anamaria Berea](https://www.linkedin.com/in/anamar
 - We used information theory, agent-based modeling and natural language processing to analyze datasets such as those of gorilla calls, dolphin languages and mycelial networks.
 - Had to complete ethics module (a discussion on a topic attracting conflicting views) and communication module (publishing articles for BMSIS website) for successful completion of the program.
 
-<h2 align="left">Projects :<br></h2>
+<h2 align="left">🚀 Projects :<br></h2>
 
 ### [Vargi Bot](www.youtube.com/watch?v=QIGFrAWsTJA): Oct, 2020 – Mar, 2021 <br>
 eYantra Robotics Competition, IIT Bombay
@@ -56,7 +56,7 @@ Department of Biotechnology - Govt. of India
 - Display all relevant things over the LCD & Serial Monitor simultaneously.
 - Count of the number of person currently inside should be maintained and displayed properly.
 
-<h2 align="left">Publications :<br></h2>
+<h2 align="left">📚 Publications :<br></h2>
 
 - <b>Ganguly, C.</b>, Nayak, S. and Gupta, A., (2022) Mental health impact of COVID-19 and machine learning applications in combating mental disorders: a review. 1st edition. Academic Press, ISBN 978-0-323-91196-2. [Book Link](https://www.elsevier.com/books/artificial-intelligence-machine-learning-and-mental-health-in-pandemics/
 jain/978-0-323-91196-2)
