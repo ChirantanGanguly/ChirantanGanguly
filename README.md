@@ -57,20 +57,21 @@ Department of Biotechnology - Govt. of India
 - Display all relevant things over the LCD & Serial Monitor simultaneously.
 - Count of the number of person currently inside should be maintained and displayed properly.
 
+<br>
 <h2 align="left">📚 Publications :<br></h2>
 
 - <b>Ganguly, C.</b>, Nayak, S. and Gupta, A., (2022) Mental health impact of COVID-19 and machine learning applications in combating mental disorders: a review. 1st edition. Academic Press, ISBN 978-0-323-91196-2. [Book Link](https://www.elsevier.com/books/artificial-intelligence-machine-learning-and-mental-health-in-pandemics/
 jain/978-0-323-91196-2)
 - Nayak, S.,<b> Ganguly, C. </b>and Gupta, A., (2022) A review of Machine Learning techniques to detect and treat COVID-19 using EHR data. [Accepted, Currently in Publication process]
 
-<h2 align="left">🥇 Honours and Awards :<br></h2>
 
+<br>
+<h2 align="left">🥇 Honours and Awards :<br></h2>
 - Excellence Award for the AI/ML challenge Japan Round (Sponsored by ITU) – Telecommunications Technology Committee
 
 
 <br>
-<h2 align=left>
-📜  Selected Certificates :
+<h2 align=left>📜  Selected Certificates :
 <br></h2>
 
 - [Machine Learning with Python - IBM](https://www.credly.com/badges/06db0584-d882-48c0-abd1-55b48835f0bb/linked_in_profile)
@@ -81,13 +82,14 @@ jain/978-0-323-91196-2)
 - [Data Science: Foundations using R Specialisation - Johns Hopkins University](https://www.coursera.org/account/accomplishments/specialization/certificate/Z5FUAAEDZ8J4)
 - [Python Intermediate Certificate - HackerRank](https://www.hackerrank.com/certificates/e6cfab7c5974)
 - [VLSI System On Chip Design - Maven Silicon](https://drive.google.com/file/d/1TSZ8qEHX7RGnUXgHt2Y16-_eYS_EtQJU/view)
-- 
+
+
 <br>
-<h2 align="left"> 🧰 Languages and Tools: <br></h2>
+<h2 align="left">🧰 Languages and Tools: <br></h2>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <br>
-<h2 align=left> 🙋‍♂️ Connect with me on:
+<h2 align=left>🙋‍♂️ Connect with me on:
 <br></h2>
 <p align="left">
 <a href="https://twitter.com/CGanguly01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cganguly01" height="30" width="40" /></a>
@@ -103,7 +105,7 @@ jain/978-0-323-91196-2)
 
 
 <br>
-<h2 align=left> 🏆 Github Stats :
+<h2 align=left>🏆 Github Stats :
 <br></h2>
 
 <table>
@@ -122,7 +124,8 @@ jain/978-0-323-91196-2)
   </tr>
 </table>
 
-<h2 align="left"> 💹 GitHub Activity :
+<br>
+<h2 align="left">📈 GitHub Activity :
 <br></h2>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ChirantanGanguly&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
