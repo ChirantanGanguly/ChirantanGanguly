@@ -81,7 +81,7 @@ jain/978-0-323-91196-2)
 - [Python Intermediate Certificate - HackerRank](https://www.hackerrank.com/certificates/e6cfab7c5974)
 - [VLSI System On Chip Design - Maven Silicon](https://drive.google.com/file/d/1TSZ8qEHX7RGnUXgHt2Y16-_eYS_EtQJU/view)
 
-<br>
+
 <h2 align=left>
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,21 +98,14 @@ Connect with me:
 <img align="center" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" height="30" width= "40"></a>
 </p>
 </p>
+<br>
 
-
-
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  Languages and Tools: <br></h2>
+<h2 align="left"> 🧰 Languages and Tools: <br></h2>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 <br>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/laptop.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Github Stats :
+<h2 align=left> 🏆 Github Stats :
 <br></h2>
 
 <table>
@@ -131,10 +124,7 @@ Github Stats :
   </tr>
 </table>
 
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hourglass1.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-GitHub Activity :
+<h2 align="left"> 💹 GitHub Activity :
 <br></h2>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ChirantanGanguly&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
