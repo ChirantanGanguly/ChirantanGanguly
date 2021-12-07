@@ -91,7 +91,7 @@ Connect with me:
 <a href="https://www.youtube.com/channel/uclxennb_bhdanfvgggpcanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxennb_bhdanfvgggpcanq" height="30" width="40" /></a>
 <a href="mailto:chirantanganguly01@gmail.com" target="blank"><img align="center" src="https://github.com/ChirantanGanguly/ChirantanGanguly/blob/main/gmail%20thumb.png" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=919330192247&text=Hi!%20Chirantan!!" id="whatsapp">
-<img src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" height="30" width= "40"></a>
+<img align="center" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" height="30" width= "40"></a>
 </p>
 </p>
 
