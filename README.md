@@ -82,10 +82,7 @@ jain/978-0-323-91196-2)
 - [VLSI System On Chip Design - Maven Silicon](https://drive.google.com/file/d/1TSZ8qEHX7RGnUXgHt2Y16-_eYS_EtQJU/view)
 
 
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Connect with me:
+<h2 align=left> 🙋‍♂️ Connect with me on:
 <br></h2>
 <p align="left">
 <a href="https://twitter.com/CGanguly01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cganguly01" height="30" width="40" /></a>
