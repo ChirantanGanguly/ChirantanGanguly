@@ -12,7 +12,7 @@
 
 - 📫 Email me at **chirantanganguly01@gmail.com**
 
-- 📄 Find details about me from my[CV](https://chirantanganguly.github.io/)
+- 📄 Find details about me from my [CV](https://chirantanganguly.github.io/)
 
 <h3 align="left">Experience :</h3>
 
