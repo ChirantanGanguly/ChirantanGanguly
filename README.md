@@ -14,9 +14,9 @@
 
 - 📄 Find details about me from my [CV](https://chirantanganguly.github.io/)
 
-<h3 align="left">Experience :</h3>
+<h2 align="left">Experience :<br></h2>
 
-#### [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune, India: May, 2021 – Present <br>
+### [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), Pune, India: May, 2021 – Present <br>
 Research Intern
 
 - Reviewed research articles employing Deep Learning to study the impact of the pandemic on physical and mental health of people. Two book chapters were written on our analytical review which have been accepted for publication.
@@ -25,7 +25,7 @@ Research Intern
 
 - Initiated work on the development of a robust and deployable AutoML package for Python to make writing Machine Learning code a easier and making the power of ML  accessible to all.
 
-#### [Blue Marble Space Institute of Science (BMSIS)](https://bmsis.org/), Seattle, USA: June, 2021 – September, 2021 <br>
+### [Blue Marble Space Institute of Science (BMSIS)](https://bmsis.org/), Seattle, USA: June, 2021 – September, 2021 <br>
 Research Associate under [Dr. Anamaria Berea](https://www.linkedin.com/in/anamariaberea/)
 
 - We looked into the fundamentals of communication and information exchange from cells to animals to humans and artificial systems such as AI.
@@ -33,9 +33,9 @@ Research Associate under [Dr. Anamaria Berea](https://www.linkedin.com/in/anamar
 - We used information theory, agent-based modeling and natural language processing to analyze datasets such as those of gorilla calls, dolphin languages and mycelial networks.
 - Had to complete ethics module (a discussion on a topic attracting conflicting views) and communication module (publishing articles for BMSIS website) for successful completion of the program.
 
-<h3 align="left">Projects :</h3>
+<h2 align="left">Projects :<br></h2>
 
-#### [Vargi Bot](www.youtube.com/watch?v=QIGFrAWsTJA): Oct, 2020 – Mar, 2021 <br>
+### [Vargi Bot](www.youtube.com/watch?v=QIGFrAWsTJA): Oct, 2020 – Mar, 2021 <br>
 eYantra Robotics Competition, IIT Bombay
 
 - Programmed and simulated two UR5 arms to work in fully automated warehouse scenarios - to segregate packaging.
@@ -43,7 +43,7 @@ eYantra Robotics Competition, IIT Bombay
 - <b>Skills used:</b> Python, ROS Melodic, Gazebo, Computer Vision, IOT, Ajax
 
 
-#### [COVID’19 Automated Screening and Sanitisation System](www.tinkercad.com/things/3I1yRh8UKWp): Jul, 2020 – Sep, 2020 <br>
+### [COVID’19 Automated Screening and Sanitisation System](www.tinkercad.com/things/3I1yRh8UKWp): Jul, 2020 – Sep, 2020 <br>
 Department of Biotechnology - Govt. of India
 
 - Automated the temperature based screening task for COVID’19 screening.
@@ -56,17 +56,17 @@ Department of Biotechnology - Govt. of India
 - Display all relevant things over the LCD & Serial Monitor simultaneously.
 - Count of the number of person currently inside should be maintained and displayed properly.
 
-<h3 align="left">Publications :</h3>
+<h2 align="left">Publications :<br></h2>
 
 - <b>Ganguly, C.</b>, Nayak, S. and Gupta, A., (2022) Mental health impact of COVID-19 and machine learning applications in combating mental disorders: a review. 1st edition. Academic Press, ISBN 978-0-323-91196-2. [Book Link](https://www.elsevier.com/books/artificial-intelligence-machine-learning-and-mental-health-in-pandemics/
 jain/978-0-323-91196-2)
 - Nayak, S.,<b> Ganguly, C. </b>and Gupta, A., (2022) A review of Machine Learning techniques to detect and treat COVID-19 using EHR data. [Accepted, Currently in Publication process]
 
-<h3 align="left">Honours and Awards :</h3>
+<h2 align="left">Honours and Awards :<br></h2>
 
 - Excellence Award for the AI/ML challenge Japan Round (Sponsored by ITU) – Telecommunications Technology Committee
 
-<h3 align="left">Selected Ceritificates :<br></h3>
+<h2 align="left">Selected Ceritificates :<br></h2>
 
 - [Machine Learning with Python - IBM](https://www.credly.com/badges/06db0584-d882-48c0-abd1-55b48835f0bb/linked_in_profile)
 - [Data Visualization with R - IBM](https://www.credly.com/badges/3210906d-0fa4-433c-838c-a310e43bb720/linked_in_profile)
