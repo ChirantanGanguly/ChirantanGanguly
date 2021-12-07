@@ -77,7 +77,12 @@ jain/978-0-323-91196-2)
 - [Python Intermediate Certificate - HackerRank](https://www.hackerrank.com/certificates/e6cfab7c5974)
 - [VLSI System On Chip Design - Maven Silicon](https://drive.google.com/file/d/1TSZ8qEHX7RGnUXgHt2Y16-_eYS_EtQJU/view)
 
-<h3 align="left">Connect with me:</h3>
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Connect with me:
+<br></h2>
 <p align="left">
 <a href="https://twitter.com/CGanguly01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cganguly01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chirantan-ganguly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirantan-ganguly/" height="30" width="40" /></a>
@@ -85,6 +90,9 @@ jain/978-0-323-91196-2)
 <a href="https://instagram.com/mr.gangopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.gangopadhyay/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uclxennb_bhdanfvgggpcanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxennb_bhdanfvgggpcanq" height="30" width="40" /></a>
 <a href="mailto:chirantanganguly01@gmail.com" target="blank"><img align="center" src="https://github.com/ChirantanGanguly/ChirantanGanguly/blob/main/gmail%20thumb.png" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=919330192247&text=Hi!%20Chirantan!!" id="whatsapp">
+<img src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" height="20" width= "40"></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
