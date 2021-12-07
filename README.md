@@ -109,3 +109,8 @@ jain/978-0-323-91196-2)
   </tr>
 </table>
 
+# Github Activity:
+
+[![Chirantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChirantanGanguly&theme=react-dark)](https://github.com/GSAUC3/github-readme-activity-graph)
+
+
