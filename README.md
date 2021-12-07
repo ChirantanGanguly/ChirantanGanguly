@@ -104,7 +104,7 @@ Github Stats :
       <img alt="" width="400" src="https://github.com/Suvraneel/ChirantanGanguly/blob/master/metrics.plugin.isocalendar.svg">
     </td>
     <td align="center" colspan="2">
-        <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirantanGanguly&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="200px" width="600px">
+        <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirantanGanguly&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="170px" width="360px">
     </td>
   </tr>
   <tr>
