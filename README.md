@@ -71,6 +71,7 @@ jain/978-0-323-91196-2)
 <h2 align=left>
 📜  Selected Certificates :
 <br></h2>
+
 - [Machine Learning with Python - IBM](https://www.credly.com/badges/06db0584-d882-48c0-abd1-55b48835f0bb/linked_in_profile)
 - [Data Visualization with R - IBM](https://www.credly.com/badges/3210906d-0fa4-433c-838c-a310e43bb720/linked_in_profile)
 - [ExploreML Intermediate Track - Google](https://www.linkedin.com/posts/chirantan-ganguly_explore-ml-certificate-of-completion-of-intermediate-activity-6617394363083390976-2Wi3)
