@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chirantan Ganguly</h1>
+<h1 align="center">नमस्ते 🙏, I'm Chirantan</h1>
 <h3 align="center">Research Intern Center for Development of Advanced Computing (CDAC)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ChirantanGanguly&label=Profile%20views&color=0e75b6&style=flat" alt="chirantanganguly" /> </p>
