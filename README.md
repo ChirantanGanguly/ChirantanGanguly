@@ -127,5 +127,4 @@ Department of Biotechnology - Govt. of India
 <h2 align="left">📈 GitHub Activity :
 <br></h2>
 
-(https://activity-graph.herokuapp.com/graph?username=ChirantanGanguly&theme=react-dark)(https://github.com/ChirantanGanguly/github-readme-activity-graph)
-
+[![Chirantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChirantanGanguly&theme=react-dark)](https://github.com/ChirantanGanguly/github-readme-activity-graph)
